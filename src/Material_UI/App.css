@@ -1,0 +1,23 @@
+.formContainer {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: linear-gradient(to bottom, rgb(248, 244, 245),rgb(190, 187, 187));
+  }
+  
+  .formTitle {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .TextField-root {
+    margin-bottom: 20px;
+  }
+  
+  .Button-root {
+    margin-top: 20px;
+  }
+  
+  
